@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SiYUu2f2TSSHfw6BrIxqnKEysmAY0deZf4sD0KPsl6I=",
+  "Source": "ProfileMicroService",
+  "BasePath": "_content/ProfileMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
